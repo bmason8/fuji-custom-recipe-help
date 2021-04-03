@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Fuji Custom Recipe help page
 
-You can use the [editor on GitHub](https://github.com/bmason8/fuji-custom-recipe-help/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+If you have any issues please send me a DM on Twitter here: https://twitter.com/FujiRecipe
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
